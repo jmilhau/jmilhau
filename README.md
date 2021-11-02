@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jmilhau
+- 👀 I’m interested in foods and travels
+- 🌱 I’m currently learning OpenShift
+- 📫 How to reach me: jmilhau
